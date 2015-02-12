@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Catégorie" attr.type="string" for="node" id="Catégorie"/>
+<key attr.name="Description" attr.type="string" for="node" id="Description"/>
+<graph edgedefault="undirected">
+<node id="2">
+<data key="label">3.SCENE CINÉ</data>
+<data key="Catégorie">ESPACE</data>
+<data key="size">90.8</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1364.262</data>
+<data key="y">-1516.2881</data>
+</node>
+<node id="3">
+<data key="label">VOLET/FONDU ENCHAINÉ</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-624.32916</data>
+<data key="y">-2140.5613</data>
+</node>
+<node id="4">
+<data key="label">TYPO/CARTON</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="Description">2 ans plus tard... </data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-627.10693</data>
+<data key="y">-1494.636</data>
+</node>
+<node id="6">
+<data key="label">MOUVEMENT CAMERA</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="Description">Travelling, passage d'un espace à l'autre</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-448.53998</data>
+<data key="y">-1249.8202</data>
+</node>
+<node id="7">
+<data key="label">RIME VISUELLE</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="Description">Raccord objet (2001), Couleur/NB, Morphing</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-769.01587</data>
+<data key="y">-1906.7378</data>
+</node>
+<node id="8">
+<data key="label">RIME SONORE</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="Description">Empietement sonore</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-776.60706</data>
+<data key="y">-1684.5225</data>
+</node>
+<node id="9">
+<data key="label">TRANSITION</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="size">100.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-221.86523</data>
+<data key="y">-1682.9858</data>
+</node>
+<node id="11">
+<data key="label">MUSIQUE</data>
+<data key="Catégorie">SON</data>
+<data key="size">50.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">1464.3684</data>
+<data key="y">602.1161</data>
+</node>
+<node id="12">
+<data key="label">BRUITAGE</data>
+<data key="Catégorie">SON</data>
+<data key="size">50.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">1676.3326</data>
+<data key="y">760.0524</data>
+</node>
+<node id="13">
+<data key="label">DIALOGUE</data>
+<data key="Catégorie">SON</data>
+<data key="size">50.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">1201.4512</data>
+<data key="y">560.2804</data>
+</node>
+<node id="14">
+<data key="label">PARAMETRES SONS</data>
+<data key="Catégorie">SON</data>
+<data key="size">50.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">1762.9182</data>
+<data key="y">1293.6561</data>
+</node>
+<node id="20">
+<data key="label">SON</data>
+<data key="Catégorie">SON</data>
+<data key="size">100.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">1291.5569</data>
+<data key="y">930.6829</data>
+</node>
+<node id="21">
+<data key="label">VOLUME</data>
+<data key="Catégorie">SON</data>
+<data key="size">50.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2307.5884</data>
+<data key="y">1453.4849</data>
+</node>
+<node id="22">
+<data key="label">SPATIALISATION</data>
+<data key="Catégorie">SON</data>
+<data key="size">50.0</data>
+<data key="r">51</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">1927.7101</data>
+<data key="y">1579.656</data>
+</node>
+<node id="23">
+<data key="label">INTERMEDE</data>
+<data key="Catégorie">TRANSITION</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">102</data>
+<data key="b">102</data>
+<data key="x">-243.68329</data>
+<data key="y">-1101.6031</data>
+</node>
+<node id="24">
+<data key="label">CADRAGE</data>
+<data key="Catégorie">CADRAGE</data>
+<data key="size">100.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2064.858</data>
+<data key="y">440.67203</data>
+</node>
+<node id="25">
+<data key="label">NETTETÉ</data>
+<data key="Catégorie">CADRAGE 2</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2698.0269</data>
+<data key="y">69.00286</data>
+</node>
+<node id="26">
+<data key="label">AMPLITUDE</data>
+<data key="Catégorie">CADRAGE 1</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2188.2732</data>
+<data key="y">9.691358</data>
+</node>
+<node id="27">
+<data key="label">NET</data>
+<data key="Catégorie">CADRAGE 2</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2887.113</data>
+<data key="y">-182.71286</data>
+</node>
+<node id="28">
+<data key="label">FLOU</data>
+<data key="Catégorie">CADRAGE 2</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2614.632</data>
+<data key="y">-257.0955</data>
+</node>
+<node id="29">
+<data key="label">DETAIL</data>
+<data key="Catégorie">CADRAGE 1</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2035.274</data>
+<data key="y">-179.73468</data>
+</node>
+<node id="30">
+<data key="label">PANORAMA</data>
+<data key="Catégorie">CADRAGE 1</data>
+<data key="size">50.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">102</data>
+<data key="x">2408.6301</data>
+<data key="y">-409.12134</data>
+</node>
+<node id="31">
+<data key="label">MOUVEMENT</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="size">100.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">-70.99043</data>
+<data key="y">674.28345</data>
+</node>
+<node id="32">
+<data key="label">LIBRE</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">212.45615</data>
+<data key="y">937.9473</data>
+</node>
+<node id="33">
+<data key="label">CONTRAINT</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="Description">Chemin</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">352.17462</data>
+<data key="y">1143.5808</data>
+</node>
+<node id="34">
+<data key="label">FLUIDE</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">-348.5647</data>
+<data key="y">854.3643</data>
+</node>
+<node id="35">
+<data key="label">SACADÉ</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">-565.25134</data>
+<data key="y">1013.0142</data>
+</node>
+<node id="36">
+<data key="label">NATUREL</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="Description">Gravité</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">-49.049175</data>
+<data key="y">1194.6985</data>
+</node>
+<node id="37">
+<data key="label">ARTIFICIEL</data>
+<data key="Catégorie">MOUVEMENT</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">255</data>
+<data key="x">-48.032047</data>
+<data key="y">1456.2196</data>
+</node>
+<node id="38">
+<data key="label">DECOR</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">100.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-729.7907</data>
+<data key="y">-223.72792</data>
+</node>
+<node id="39">
+<data key="label">ÉCHELLE</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-1013.2479</data>
+<data key="y">82.57982</data>
+</node>
+<node id="40">
+<data key="label">LUMIÈRE</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-1135.9027</data>
+<data key="y">-166.62875</data>
+</node>
+<node id="42">
+<data key="label">TYPE DÉCOR</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-920.0282</data>
+<data key="y">-619.2542</data>
+</node>
+<node id="43">
+<data key="label">DESSIN</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-541.63055</data>
+<data key="y">-534.97327</data>
+</node>
+<node id="44">
+<data key="label">3D</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-461.8851</data>
+<data key="y">-848.84155</data>
+</node>
+<node id="45">
+<data key="label">PHOTOGRAPHIQUE</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-356.30783</data>
+<data key="y">-727.66223</data>
+</node>
+<node id="46">
+<data key="label">FILMÉ</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-981.5376</data>
+<data key="y">-943.75134</data>
+</node>
+<node id="47">
+<data key="label">MOUVEMENT</data>
+<data key="Catégorie">DECOR</data>
+<data key="size">50.0</data>
+<data key="r">0</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-723.6295</data>
+<data key="y">130.59384</data>
+</node>
+<node id="49">
+<data key="label">INTERACTION</data>
+<data key="size">100.0</data>
+<data key="r">255</data>
+<data key="g">153</data>
+<data key="b">102</data>
+<data key="x">452.80368</data>
+<data key="y">-339.9419</data>
+</node>
+<node id="51">
+<data key="label">CAMERA SUBJECTIVE</data>
+<data key="Catégorie">CARACT.</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1941.8091</data>
+<data key="y">-1341.2675</data>
+</node>
+<node id="52">
+<data key="label">INTERACTION MOUVEMENT</data>
+<data key="Catégorie">CARACT.</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">840.0651</data>
+<data key="y">-914.3712</data>
+</node>
+<node id="53">
+<data key="label">?</data>
+<data key="Catégorie">CARACT.</data>
+<data key="Description">&lt;valeur NULL&gt;</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">677.91986</data>
+<data key="y">-1594.1377</data>
+</node>
+<node id="55">
+<data key="label">?</data>
+<data key="Catégorie">CARACT.</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1671.7135</data>
+<data key="y">-592.02637</data>
+</node>
+<node id="56">
+<data key="label">LIBRE. ZONE LIMITÉ</data>
+<data key="Catégorie">CARACT.</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">1079.3273</data>
+<data key="y">-417.68735</data>
+</node>
+<node id="57">
+<data key="label">ESPACE IMAGE SEQUENCÉE</data>
+<data key="size">50.0</data>
+<data key="r">153</data>
+<data key="g">153</data>
+<data key="b">153</data>
+<data key="x">634.3321</data>
+<data key="y">-1198.0405</data>
+</node>
+<edge source="2" target="53" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="2" target="57" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="3" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="4" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="6" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="7" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="8" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="23" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="9" target="53" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="14" target="21" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="14" target="22" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="20" target="11" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="20" target="12" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="20" target="13" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="20" target="14" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="24" target="25" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="24" target="26" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="25" target="27" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="25" target="28" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="26" target="29" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="26" target="30" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="26" target="51" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="31" target="34" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="31" target="36" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="32" target="31" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="32" target="33" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="34" target="35" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="36" target="37" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="38" target="39" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="38" target="40" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="38" target="42" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="38" target="47" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="42" target="43" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="42" target="44" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="42" target="45" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="42" target="46" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="49" target="9" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="49" target="20" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="49" target="24" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="49" target="31" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="49" target="38" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="49" target="52" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="51" target="2" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="52" target="2" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="52" target="57" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="55" target="2" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="55" target="20" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="56" target="2" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="56" target="31" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="57" target="44" type="directed">
+<data key="weight">1.0</data>
+</edge>
+<edge source="57" target="45" type="directed">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
